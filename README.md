@@ -1,6 +1,7 @@
 # My-Personal-Assistant👩🏻‍💻
 
-Hey all!🙋‍♀️
+Hey all!🙋‍♀️.
+
 This is a personalized C++ Text to Speech Application which acts as a Personal Assistant.
 
 Walk through the project :👇🏻
