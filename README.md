@@ -25,7 +25,7 @@ system(charCommand);
 
 ShellExecute(NULL,"open","file path",NULL, NULL, SW_NORMAL);
 
-Note: The file paths must include double slash "\" in order to be identified.
+Note: The file paths must include double slash "\\" in order to be identified.
 
 👉🏻Command to open the browser:
 
