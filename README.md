@@ -37,6 +37,8 @@ Example: system("start https://www.youtube.com");
 
 CreateProcess(TEXT("file path"), NULL, NULL, NULL, FALSE, NULL, NULL, NULL, &startInfo, &processInfo);
 
+👉🏻Tech Stack : C++
+
 
 
 
