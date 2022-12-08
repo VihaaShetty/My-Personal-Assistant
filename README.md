@@ -12,7 +12,7 @@ http://espeak.sourceforge.net/download.html
 👉🏻Now the espeak.exe application must be placed in the same folder where the C++ application is being stored.
 
 👉🏻Include these 4 lines of code to listen to the speech:
-string phrase = "whatever message you want to listen to";
+string phrase = "whatever message you want to listen to";.
 string command = "espeak "" + phrase + """;
 const char *charCommand = command.c_str();
 system(charCommand);
